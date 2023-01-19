@@ -2,8 +2,16 @@
 
 ## 📠 Convention
 
+### 🤝 Branch Naming Convention
+
+|  머릿말      | 설명        |
+| ----------- | ---------- |
+| master      | 서비스 브랜치    |
+| feature     | 기능 단위 구현    |
+| hotfix      | 서비스 중 긴급 수정 건에 대한 처리   |
+
 <details>
-<summary>Branch Naming Convention</summary>
+<summary>Branch Naming Convention Detail</summary>
 <div markdown="1">
 
 ```
@@ -36,11 +44,35 @@ master(main) ── develop ── feature
 </div>
 </details>
 
+### 🤝 Commit Convention
+
+|  머릿말     | 설명        |
+| ----------- | ---------- |
+| feat        | 기능 구현, 추가   |
+| setting     | 패키지 설치, 개발 설정    |
+| refactor    | 코드 리팩터링    |
+| fix         | 버그 수정, 예외 케이스 대응, 기능 개선   |
+| docs        | README.md 작성, 주석 작성   |
+| chore       | 기타 작업  |
+
 <details>
-<summary>Commit Convention</summary>
+<summary>Commit Convention Detail</summary>
 <div markdown="1">
 
--
+- [ ] `feat: 회원가입 API 구현`과 같이 `머릿말: 내용` 형식으로 작성합니다.
+- [ ] 리팩터링의 경우 기능의 변화 없이 구조를 개선할 때 사용됩니다. (ex: 입력 상태값을  커스텀 훅으로 분리)
+- [ ] 여러 작업을 동시에 실행한 경우 한 줄에 한 내용씩 입력합니다. 가장 메인이 된 작업을 먼저 기입합니다.
+```
+- ❌ 잘못된 예시_1
+feat: 버튼 컴포넌트 구현, API 중복 요청 현상 해결
+
+- ❌ 잘못된 예시_2
+feat: 버튼 컴포넌트 구현 || fix: API 중복 요청 현상 해결
+
+- ⭕ 올바른 예시
+feat: 버튼 컴포넌트 구현
+fix: API 중복 요청 현상 해결
+```
 
 </div>
 </details>
