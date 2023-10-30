@@ -1,5 +1,19 @@
 # MJU LIKELION
 
+## 📕 11th Lecture
+
+### Web
+[Notion](https://www.notion.so/likelion-11th/WEB-1c29ff25260947a8a9a2a30781953013)
+
+[Repo](https://github.com/mju-likelion/11th-web-session)
+
+### Server
+[Notion](https://www.notion.so/likelion-11th/SERVER-a16b588942e04d82ac4f9389a033e9e2)
+
+[Repo](https://github.com/mju-likelion/11th-server-session)
+
+⁕ notion의 경우 권한에 따라 보이지 않을 수 있습니다. 해당 기수의 운영진에게 문의주세요
+
 ## 📠 Convention
 
 ### 🤝 Branch Naming Convention
