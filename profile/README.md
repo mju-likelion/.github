@@ -1,6 +1,6 @@
 # MJU LIKELION
 
-## 📕 11th Lecture
+## 📕 12th Lecture
 
 ### Web
 [Notion](https://likelion-mju-12th.notion.site/WEB-10a88d96c88f491096654e6d7d683b50?pvs=4)
