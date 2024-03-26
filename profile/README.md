@@ -3,14 +3,14 @@
 ## 📕 11th Lecture
 
 ### Web
-[Notion](https://www.notion.so/likelion-11th/WEB-1c29ff25260947a8a9a2a30781953013)
+[Notion](https://likelion-mju-12th.notion.site/WEB-10a88d96c88f491096654e6d7d683b50?pvs=4)
 
-[Repo](https://github.com/mju-likelion/11th-web-session)
+[Repo](https://github.com/mju-likelion/12th-web-session)
 
 ### Server
-[Notion](https://www.notion.so/likelion-11th/SERVER-a16b588942e04d82ac4f9389a033e9e2)
+[Notion](https://likelion-mju-12th.notion.site/SERVER-86f934ae17d348a3923ec7bf14186b38?pvs=4)
 
-[Repo](https://github.com/mju-likelion/11th-server-session)
+[Repo](https://github.com/mju-likelion/12th-server-session)
 
 ⁕ notion의 경우 권한에 따라 보이지 않을 수 있습니다. 해당 기수의 운영진에게 문의주세요
 
