@@ -1,16 +1,26 @@
 # MJU LIKELION
 
-## 📕 12th Lecture
+## 📕 14th Lecture
 
-### Web
+### Design
+[Notion]()
+
+[Repo]()
+
+### Frontend
 [Notion](https://likelion-mju-12th.notion.site/WEB-10a88d96c88f491096654e6d7d683b50?pvs=4)
 
 [Repo](https://github.com/mju-likelion/12th-web-session)
 
-### Server
+### Backend
 [Notion](https://likelion-mju-12th.notion.site/SERVER-86f934ae17d348a3923ec7bf14186b38?pvs=4)
 
 [Repo](https://github.com/mju-likelion/12th-server-session)
+
+### AI
+[Notion]()
+
+[Repo]()
 
 ⁕ notion의 경우 권한에 따라 보이지 않을 수 있습니다. 해당 기수의 운영진에게 문의주세요
 
