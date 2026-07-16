@@ -20,7 +20,7 @@
 ### AI
 [Notion]()
 
-[Repo]()
+[Repo](https://github.com/Likelion-MJU-AI-14th)
 
 ⁕ notion의 경우 권한에 따라 보이지 않을 수 있습니다. 해당 기수의 운영진에게 문의주세요
 
