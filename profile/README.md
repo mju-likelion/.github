@@ -15,10 +15,10 @@
 ### Backend
 [Notion](https://likelion-mju-12th.notion.site/SERVER-86f934ae17d348a3923ec7bf14186b38?pvs=4)
 
-[Repo](https://github.com/mju-likelion/12th-server-session)
+[Repo]([https://github.com/mju-likelion/12th-server-session](https://github.com/mju-likelion/backend-deep-dive))
 
 ### AI
-[Notion]()
+[Notion](https://app.notion.com/p/ai-3970be82636f807d9bb3f23a7811aaea?source=copy_link)
 
 [Repo](https://github.com/Likelion-MJU-AI-14th)
 
